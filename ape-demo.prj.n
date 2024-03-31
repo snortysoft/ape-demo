@@ -2,8 +2,8 @@ node.utf8
 object project
 {
     string name         "APE Demo"
-    string developer    "OldTimes Software"
-    string website      "https://oldtimes-software.com"
+    string developer    "SnortySoft"
+    string website      "http://ape.snortysoft.net"
     array int version   { 0 0 0 }
 
     array string dependencies
